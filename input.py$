@@ -1,0 +1,2 @@
+person = raw_input (Muyang)
+print 'Hello' + person = "!"
